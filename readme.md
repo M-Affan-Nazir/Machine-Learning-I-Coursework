@@ -13,4 +13,4 @@
 - Linear Regression
 - Polynomial Regression
 - Logistic Regression
-- Polynomial Logistic Regression
+- Polynomial Logistic Regressions
